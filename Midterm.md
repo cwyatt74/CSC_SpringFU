@@ -13,3 +13,16 @@ N-grams are used for a variety of different task. For example, when developing a
  ## How N-grams are used in humanities, sciences, and business/industry. ##
 
    Google uses N-grams for  Looking at changes in the frequencies of these n-grams over time, the authors seek to watch cultural change happening---not just qualitatively, but, they claim, quantitatively.
+
+## Steps necessary to find N-grams. ##
+
+If X=Num of words in a given sentence K, the number of n-grams for sentence K would be:
+
+
+
+
+
+## methods in Scala that might be useful for N-grams. ##
+
+find likely candidates for the correct spelling of a misspelled word
+improve compression in compression algorithms where a small area of data requires n-grams of greater length
