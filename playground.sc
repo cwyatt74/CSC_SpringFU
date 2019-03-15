@@ -3,13 +3,13 @@ import edu.holycross.shot.cite._
 
 
 // EDIT THIS to point to your file!!!
-val filepath:String = "/vagrant/YOUR_REPO/YOUR_TEXT.txt"
+val filepath:String = "/vagrant/CSC_SpringFU/playground.sc"
 // Get the file as a vector of lines, ignoring empty lines
-val myLines:Vector[String] = Source.fromFile(filepath).getLines.toVector.filter( _.size > 0 )
+val myBook:Vector[String] = Source.fromFile(filepath).getLines.toVector.filter( _.size > 0 )
 
 
 /* How to (a) remove punctuation, and (b) tokenize by word in a short chunk */
-val myTokenizedLines:Vector[Vector[String]] = myLines.map( aLine => {
+val myTokenizedLines:Vector[Vector[String]] = myBook.map( aLine => {
   val noPunc:String = aLine.replaceAll("""[,.?;":!)(]""",""  ).replaceAll(" +"," ")
   val wordVec:Vector[String] = noPunc.split(" ").toVector
   wordVec
