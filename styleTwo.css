@@ -1,0 +1,27 @@
+html {
+
+
+
+}
+
+
+	body {
+    background:url(godPic.jpg) fixed center;
+		background-image: url(godPic.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+
+
+	}
+
+	p {
+		  font-family: "Helvetica", sans-serif;
+			border: 5px solid white;
+			border-radius: 10px;
+			border-width: medium;
+			color:  cyan;
+			font-size: 150%;
+
+		}
