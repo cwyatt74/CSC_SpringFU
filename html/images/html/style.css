@@ -1,0 +1,96 @@
+html {
+
+
+
+}
+
+	body.image1 {
+		background:url(images/godPic.jpg) fixed center;
+		background-image: url(images/godPic.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	body.image2 {
+		background:url(images/chpt1.jpg) fixed center;
+		background-image: url(images/chpt1.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	body.image3 {
+		background:url(images/Cain4.jpg) fixed center;
+		background-image: url(images/Cain4.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	body.image4 {
+		background:url(images/chpt7.jpg) fixed center;
+		background-image: url(images/chpt7.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	body.image5 {
+		background:url(images/chpt10.jpg) fixed center;
+		background-image: url(images/chpt10.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	body.image6 {
+		background:url(images/chapter13.jpg) fixed center;
+		background-image: url(images/chapter13.jpg);
+		background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+
+
+
+
+
+
+
+	body {
+
+
+
+
+	}
+
+	h1 {
+			font-size: 250%;
+	}
+
+	p {
+			font-size: 200%;
+	}
+
+	p, h1 {
+		  font-family: "Apple Chancery";
+			border: 5px solid rgba(255,255,255,0.3);
+			border-radius: 10px;
+			border-width: medium;
+			color: black;
+			padding:10px;
+			background: inherit;
+			-webkit-background-clip:text;
+			background-clip: text;
+			color: transparent;
+			filter: invert(1) grayscale(1) contrast(9);
+
+		}
