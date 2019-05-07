@@ -22,7 +22,7 @@ def loadFile(fp:String):Vector[String] = {
 	Source.fromFile(fp).getLines.toVector
 }
 
-def saveString(s:String, filePath:String = "html/", fileName:String = "temp.txt"):Unit = {
+def saveString(s:String, filePath:String = "html/", fileName:String = "Genesis_all.txt"):Unit = {
 	val pw = new PrintWriter(new File(filePath + fileName))
 	for (line <- s.lines){
 		pw.append(line)
@@ -33,7 +33,7 @@ def saveString(s:String, filePath:String = "html/", fileName:String = "temp.txt"
 
 /* Project-specific CEX Stuff */
 
-val myCexFile:String = "pope_iliad.cex"
+val myCexFile:String = "Genesis_backup.cex"
 
 lazy val lib = loadLibrary(myCexFile)
 lazy val tr = lib.textRepository.get
@@ -41,7 +41,7 @@ lazy val popeCorpus = tr.corpus
 
 // Avoid typing lengthy URNs all the time
 def u(passage:String):CtsUrn = {
-	val baseUrl:String = "urn:cts:fufolio:pope.iliad.fu2019:"
+	val baseUrl:String = "urn:cts:futexts:bible.kjv.cw:"
 	CtsUrn(s"${baseUrl}${passage}")
 }
 
@@ -76,7 +76,7 @@ def chunk25(corp:Corpus):Vector[Corpus] = {
 def chunkByCitation(c:Corpus, level:Int = 1):Vector[Corpus] = {
 	// we start with a Vector of CitableNodes from our corpus
 	val v1:Vector[CitableNode] = c.nodes
-	// We zipWithIndex to capture their sequence	
+	// We zipWithIndex to capture their sequence
 	val v2:Vector[(CitableNode, Int)] = v1.zipWithIndex
 	// We group by top-level URNs
 	val v3:Vector[(CtsUrn, Vector[(CitableNode, Int)])] = {
@@ -149,7 +149,7 @@ def buildSite:Unit = {
 		val bookHeader:String = """
 			<div class="bookHeader color1">
 				<p class="textOnColor">Book ${bkNum}</p>
-			</div>	
+			</div>
 		"""
 
 		// create a container with all the CitableNodes for this chunk
@@ -162,12 +162,12 @@ def buildSite:Unit = {
 
 		// save this chunk as an html file
 		val htmlString:String = {
-			htmlTop + 
-			nav + 
-			bookHeader + 
-			containerOpen + 
-			passages.mkString("\n") + 
-			containerClose + 
+			htmlTop +
+			nav +
+			bookHeader +
+			containerOpen +
+			passages.mkString("\n") +
+			containerClose +
 			htmlBottom
 		}
 		// Write out to a file
