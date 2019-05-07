@@ -1,0 +1,410 @@
+##King James
+
+###Genesis Chapters 1-15
+####Chapter 1 ####
+**1.1** In the beginning when *****God***** created the heavens and the earth,
+**1.2** the earth was a formless void and darkness covered the face of the deep, while a wind from *****God***** swept over the face of the waters.
+**1.3** Then *****God***** said, Let there be light; and there was light.
+**1.4** And *****God***** saw that the light was good; and *****God***** separated the light from the darkness.
+**1.5** *****God***** called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
+**1.6** And *****God***** said, Let there be a dome in the midst of the waters, and let it separate the waters from the waters.
+**1.7** So *****God***** made the dome and separated the waters that were under the dome from the waters that were above the dome. And it was so.
+**1.8** *****God***** called the dome Sky. And there was evening and there was morning, the second day.
+**1.9** And *****God***** said, Let the waters under the sky be gathered together into one place, and let the dry land appear. And it was so.
+**1.10** *****God***** called the dry land Earth, and the waters that were gathered together he called Seas. And *****God***** saw that it was good.
+**1.11** Then *****God***** said, Let the earth put forth vegetation: plants yielding seed, and fruit trees of every kind on earth that bear fruit with the seed in it. And it was so.
+**1.12** The earth brought forth vegetation: plants yielding seed of every kind, and trees of every kind bearing fruit with the seed in it. And *****God***** saw that it was good.
+**1.13** And there was evening and there was morning, the third day.
+**1.14** And *****God***** said, Let there be lights in the dome of the sky to separate the day from the night; and let them be for signs and for seasons and for days and years,
+**1.15** and let them be lights in the dome of the sky to give light upon the earth. And it was so.
+**1.16** *****God***** made the two great lights  the greater light to rule the day and the lesser light to rule the night  and the stars.
+**1.17** *****God***** set them in the dome of the sky to give light upon the earth,
+**1.18** to rule over the day and over the night, and to separate the light from the darkness. And *****God***** saw that it was good.
+**1.19** And there was evening and there was morning, the fourth day.
+**1.20** And *****God***** said, Let the waters bring forth swarms of living creatures, and let birds fly above the earth across the dome of the sky.
+**1.21** So *****God***** created the great sea monsters and every living creature that moves, of every kind, with which the waters swarm, and every winged bird of every kind. And *****God***** saw that it was good.
+**1.22** *****God***** blessed them, saying, Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.
+**1.23** And there was evening and there was morning, the fifth day.
+**1.24** And *****God***** said, Let the earth bring forth living creatures of every kind: cattle and creeping things and wild animals of the earth of every kind. And it was so.
+**1.25** *****God***** made the wild animals of the earth of every kind, and the cattle of every kind, and everything that creeps upon the ground of every kind. And *****God***** saw that it was good.
+**1.26** Then *****God***** said, Let us make humankind in our image, according to our likeness; and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the wild animals of the earth, and over every creeping thing that creeps upon the earth.
+**1.27** So *****God***** created humankind in his image, in the image of *****God***** he created them; male and female he created them.
+**1.28** *****God***** blessed them, and *****God***** said to them, Be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth.
+**1.29** *****God***** said, See, I have given you every plant yielding seed that is upon the face of all the earth, and every tree with seed in its fruit; you shall have them for food.
+**1.30** And to every beast of the earth, and to every bird of the air, and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food. And it was so.
+**1.31** *****God***** saw everything that he had made, and indeed, it was very good. And there was evening and there was morning, the sixth day.
+
+####Chapter 2 ####
+**2.1** Thus the heavens and the earth were finished, and all their multitude.
+**2.2** And on the seventh day *****God***** finished the work that he had done, and he rested on the seventh day from all the work that he had done.
+**2.3** So *****God***** blessed the seventh day and hallowed it, because on it *****God***** rested from all the work that he had done in creation.
+**2.4** These are the generations of the heavens and the earth when they were created. In the day that the LORD *****God***** made the earth and the heavens,
+**2.5** when no plant of the field was yet in the earth and no herb of the field had yet sprung up  for the LORD *****God***** had not caused it to rain upon the earth, and there was no one to till the ground;
+**2.6** but a stream would rise from the earth, and water the whole face of the ground
+**2.7** then the LORD *****God***** formed man from the dust of the ground, and breathed into his nostrils the breath of life; and the man became a living being.
+**2.8** And the LORD *****God***** planted a garden in Eden, in the east; and there he put the man whom he had formed.
+**2.9** Out of the ground the LORD *****God***** made to grow every tree that is pleasant to the sight and good for food, the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
+**2.10** A river flows out of Eden to water the garden, and from there it divides and becomes four branches.
+**2.11** The name of the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold;
+**2.12** and the gold of that land is good; bdellium and onyx stone are there.
+**2.13** The name of the second river is Gihon; it is the one that flows around the whole land of Cush.
+**2.14** The name of the third river is Tigris, which flows east of Assyria. And the fourth river is the Euphrates.
+**2.15** The LORD *****God***** took the man and put him in the garden of Eden to till it and keep it.
+**2.16** And the LORD *****God***** commanded the man, You may freely eat of every tree of the garden;
+**2.17** but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die.
+**2.18** Then the LORD *****God***** said, It is not good that the man should be alone; I will make him a helper as his partner.
+**2.19** So out of the ground the LORD *****God***** formed every animal of the field and every bird of the air, and brought them to the man to see what he would call them; and whatever the man called every living creature, that was its name.
+**2.20** The man gave names to all cattle, and to the birds of the air, and to every animal of the field; but for the man there was not found a helper as his partner.
+**2.21** So the LORD *****God***** caused a deep sleep to fall upon the man, and he slept; then he took one of his ribs and closed up its place with flesh.
+**2.22** And the rib that the LORD *****God***** had taken from the man he made into a woman and brought her to the man.
+**2.23** Then the man said, This at last is bone of my bones and flesh of my flesh; this one shall be called Woman, for out of Man this one was taken.
+**2.24** Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh.
+**2.25** And the man and his wife were both naked, and were not ashamed.
+
+####Chapter 3 ####
+**3.1** Now the serpent was more crafty than any other wild animal that the LORD *****God***** had made. He said to the woman, Did *****God***** say, 'You shall not eat from any tree in the garden'? [3:2] The woman said to the serpent, We may eat of the fruit of the trees in the garden;
+**3.3** but *****God***** said, 'You shall not eat of the fruit of the tree that is in the middle of the garden, nor shall you touch it, or you shall die. '
+**3.4** But the serpent said to the woman, You will not die;
+**3.5** for *****God***** knows that when you eat of it your eyes will be opened, and you will be like *****God*****, knowing good and evil.
+**3.6** So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate; and she also gave some to her husband, who was with her, and he ate.
+**3.7** Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made loincloths for themselves.
+**3.8** They heard the sound of the LORD *****God***** walking in the garden at the time of the evening breeze, and the man and his wife hid themselves from the presence of the LORD *****God***** among the trees of the garden.
+**3.9** But the LORD *****God***** called to the man, and said to him, Where are you?
+**3.10** He said, I heard the sound of you in the garden, and I was afraid, because I was naked; and I hid myself.
+**3.11** He said, Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?
+**3.12** The man said, The woman whom you gave to be with me, she gave me fruit from the tree, and I ate.
+**3.13** Then the LORD *****God***** said to the woman, What is this that you have done? The woman said, The serpent tricked me, and I ate.
+**3.14** The LORD *****God***** said to the serpent, Because you have done this, cursed are you among all animals and among all wild creatures; upon your belly you shall go, and dust you shall eat all the days of your life.
+**3.15** I will put enmity between you and the woman, and between your offspring and hers; he will strike your head, and you will strike his heel.
+**3.16** To the woman he said, I will greatly increase your pangs in childbearing; in pain you shall bring forth children, yet your desire shall be for your husband, and he shall rule over you.
+**3.17** And to the man he said, Because you have listened to the voice of your wife, and have eaten of the tree about which I commanded you, 'You shall not eat of it,' cursed is the ground because of you; in toil you shall eat of it all the days of your life;
+**3.18** thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.
+**3.19** By the sweat of your face you shall eat bread until you return to the ground, for out of it you were taken; you are dust, and to dust you shall return.
+**3.20** The man named his wife Eve, because she was the mother of all living.
+**3.21** And the LORD *****God***** made garments of skins for the man and for his wife, and clothed them.
+**3.22** Then the LORD *****God***** said, See, the man has become like one of us, knowing good and evil; and now, he might reach out his hand and take also from the tree of life, and eat, and live forever
+**3.23** therefore the LORD *****God***** sent him forth from the garden of Eden, to till the ground from which he was taken.
+**3.24** He drove out the man; and at the east of the garden of Eden he placed the cherubim, and a sword flaming and turning to guard the way to the tree of life.
+####Chapter 4 ####
+**4.1** Now the man knew his wife Eve, and she conceived and bore Cain, saying, I have produced a man with the help of the LORD.
+**4.2** Next she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a tiller of the ground.
+**4.3** In the course of time Cain brought to the LORD an offering of the fruit of the ground,
+**4.4** and Abel for his part brought of the firstlings of his flock, their fat portions. And the LORD had regard for Abel and his offering,
+**4.5** but for Cain and his offering he had no regard. So Cain was very angry, and his countenance fell.
+**4.6** The LORD said to Cain, Why are you angry, and why has your countenance fallen?
+**4.7** If you do well, will you not be accepted? And if you do not do well, sin is lurking at the door; its desire is for you, but you must master it.
+**4.8** Cain said to his brother Abel, Let us go out to the field. And when they were in the field, Cain rose up against his brother Abel, and killed him.
+**4.9** Then the LORD said to Cain, Where is your brother Abel? He said, I do not know; am I my brother's keeper?
+**4.10** And the LORD said, What have you done? Listen; your brother's blood is crying out to me from the ground!
+**4.11** And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand.
+**4.12** When you till the ground, it will no longer yield to you its strength; you will be a fugitive and a wanderer on the earth.
+**4.13** Cain said to the LORD, My punishment is greater than I can bear!
+**4.14** Today you have driven me away from the soil, and I shall be hidden from your face; I shall be a fugitive and a wanderer on the earth, and anyone who meets me may kill me.
+**4.15** Then the LORD said to him, Not so! Whoever kills Cain will suffer a sevenfold vengeance. And the LORD put a mark on Cain, so that no one who came upon him would kill him.
+**4.16** Then Cain went away from the presence of the LORD, and settled in the land of Nod, east of Eden.
+**4.17** Cain knew his wife, and she conceived and bore Enoch; and he built a city, and named it Enoch after his son Enoch.
+**4.18** To Enoch was born Irad; and Irad was the father of Mehujael, and Mehujael the father of Methushael, and Methushael the father of Lamech.
+**4.19** Lamech took two wives; the name of the one was Adah, and the name of the other Zillah.
+**4.20** Adah bore Jabal; he was the ancestor of those who live in tents and have livestock.
+**4.21** His brother's name was Jubal; he was the ancestor of all those who play the lyre and pipe.
+**4.22** Zillah bore Tubalcain, who made all kinds of bronze and iron tools. The sister of Tubalcain was Naamah.
+**4.23** Lamech said to his wives: Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me.
+**4.24** If Cain is avenged sevenfold, truly Lamech seventysevenfold.
+**4.25** Adam knew his wife again, and she bore a son and named him Seth, for she said, *****God***** has appointed for me another child instead of Abel, because Cain killed him.
+**4.26** To Seth also a son was born, and he named him Enosh. At that time people began to invoke the name of the LORD.
+
+####Chapter 5 ####
+**5.1** This is the list of the descendants of Adam. When *****God***** created humankind, he made them in the likeness of *****God*****.
+**5.2** Male and female he created them, and he blessed them and named them Humankind when they were created.
+**5.3** When Adam had lived one hundred thirty years, he became the father of a son in his likeness, according to his image, and named him Seth.
+**5.4** The days of Adam after he became the father of Seth were eight hundred years; and he had other sons and daughters.
+**5.5** Thus all the days that Adam lived were nine hundred thirty years; and he died.
+**5.6** When Seth had lived one hundred five years, he became the father of Enosh.
+**5.7** Seth lived after the birth of Enosh eight hundred seven years, and had other sons and daughters.
+**5.8** Thus all the days of Seth were nine hundred twelve years; and he died.
+**5.9** When Enosh had lived ninety years, he became the father of Kenan.
+**5.10** Enosh lived after the birth of Kenan eight hundred fifteen years, and had other sons and daughters.
+**5.11** Thus all the days of Enosh were nine hundred five years; and he died.
+**5.12** When Kenan had lived seventy years, he became the father of Mahalalel.
+**5.13** Kenan lived after the birth of Mahalalel eight hundred and forty years, and had other sons and daughters.
+**5.14** Thus all the days of Kenan were nine hundred and ten years; and he died.
+**5.15** When Mahalalel had lived sixtyfive years, he became the father of Jared.
+**5.16** Mahalalel lived after the birth of Jared eight hundred thirty years, and had other sons and daughters.
+**5.17** Thus all the days of Mahalalel were eight hundred ninetyfive years; and he died.
+**5.18** When Jared had lived one hundred sixtytwo years he became the father of Enoch.
+**5.19** Jared lived after the birth of Enoch eight hundred years, and had other sons and daughters.
+**5.20** Thus all the days of Jared were nine hundred sixtytwo years; and he died.
+**5.21** When Enoch had lived sixtyfive years, he became the father of Methuselah.
+**5.22** Enoch walked with *****God***** after the birth of Methuselah three hundred years, and had other sons and daughters.
+**5.23** Thus all the days of Enoch were three hundred sixtyfive years.
+**5.24** Enoch walked with *****God*****; then he was no more, because *****God***** took him.
+**5.25** When Methuselah had lived one hundred eightyseven years, he became the father of Lamech.
+**5.26** Methuselah lived after the birth of Lamech seven hundred eighty two years, and had other sons and daughters.
+**5.27** Thus all the days of Methuselah were nine hundred sixtynine years; and he died.
+**5.28** When Lamech had lived one hundred eightytwo years, he became the father of a son;
+**5.29** he named him Noah, saying, Out of the ground that the LORD has cursed this one shall bring us relief from our work and from the toil of our hands.
+**5.30** Lamech lived after the birth of Noah five hundred ninetyfive years, and had other sons and daughters.
+**5.31** Thus all the days of Lamech were seven hundred seventyseven years; and he died.
+**5.32** After Noah was five hundred years old, Noah became the father of Shem, Ham, and Japheth.
+
+####Chapter 6 ####
+**6.1** When people began to multiply on the face of the ground, and daughters were born to them,
+**6.2** the sons of *****God***** saw that they were fair; and they took wives for themselves of all that they chose.
+**6.3** Then the LORD said, My spirit shall not abide in mortals forever, for they are flesh; their days shall be one hundred twenty years.
+**6.4** The Nephilim were on the earth in those days  and also afterward  when the sons of *****God***** went in to the daughters of humans, who bore children to them. These were the heroes that were of old, warriors of renown.
+**6.5** The LORD saw that the wickedness of humankind was great in the earth, and that every inclination of the thoughts of their hearts was only evil continually.
+**6.6** And the LORD was sorry that he had made humankind on the earth, and it grieved him to his heart.
+**6.7** So the LORD said, I will blot out from the earth the human beings I have created  people together with animals and creeping things and birds of the air, for I am sorry that I have made them.
+**6.8** But Noah found favor in the sight of the LORD.
+**6.9** These are the descendants of Noah. Noah was a righteous man, blameless in his generation; Noah walked with *****God*****.
+**6.10** And Noah had three sons, Shem, Ham, and Japheth.
+**6.11** Now the earth was corrupt in *****God*****'s sight, and the earth was filled with violence.
+**6.12** And *****God***** saw that the earth was corrupt; for all flesh had corrupted its ways upon the earth.
+**6.13** And *****God***** said to Noah, I have determined to make an end of all flesh, for the earth is filled with violence because of them; now I am going to destroy them along with the earth.
+**6.14** Make yourself an ark of cypress wood; make rooms in the ark, and cover it inside and out with pitch.
+**6.15** This is how you are to make it: the length of the ark three hundred cubits, its width fifty cubits, and its height thirty cubits.
+**6.16** Make a roof for the ark, and finish it to a cubit above; and put the door of the ark in its side; make it with lower, second, and third decks.
+**6.17** For my part, I am going to bring a flood of waters on the earth, to destroy from under heaven all flesh in which is the breath of life; everything that is on the earth shall die.
+**6.18** But I will establish my covenant with you; and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.
+**6.19** And of every living thing, of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female.
+**6.20** Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground according to its kind, two of every kind shall come in to you, to keep them alive.
+**6.21** Also take with you every kind of food that is eaten, and store it up; and it shall serve as food for you and for them.
+**6.22** Noah did this; he did all that *****God***** commanded him.
+
+####Chapter 7 ####
+**7.1** Then the LORD said to Noah, Go into the ark, you and all your household, for I have seen that you alone are righteous before me in this generation.
+**7.2** Take with you seven pairs of all clean animals, the male and its mate; and a pair of the animals that are not clean, the male and its mate;
+**7.3** and seven pairs of the birds of the air also, male and female, to keep their kind alive on the face of all the earth.
+**7.4** For in seven days I will send rain on the earth for forty days and forty nights; and every living thing that I have made I will blot out from the face of the ground.
+**7.5** And Noah did all that the LORD had commanded him.
+**7.6** Noah was six hundred years old when the flood of waters came on the earth.
+**7.7** And Noah with his sons and his wife and his sons' wives went into the ark to escape the waters of the flood.
+**7.8** Of clean animals, and of animals that are not clean, and of birds, and of everything that creeps on the ground,
+**7.9** two and two, male and female, went into the ark with Noah, as *****God***** had commanded Noah.
+**7.10** And after seven days the waters of the flood came on the earth.
+**7.11** In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.
+**7.12** The rain fell on the earth forty days and forty nights.
+**7.13** On the very same day Noah with his sons, Shem and Ham and Japheth, and Noah's wife and the three wives of his sons entered the ark,
+**7.14** they and every wild animal of every kind, and all domestic animals of every kind, and every creeping thing that creeps on the earth, and every bird of every kind  every bird, every winged creature.
+**7.15** They went into the ark with Noah, two and two of all flesh in which there was the breath of life.
+**7.16** And those that entered, male and female of all flesh, went in as *****God***** had commanded him; and the LORD shut him in.
+**7.17** The flood continued forty days on the earth; and the waters increased, and bore up the ark, and it rose high above the earth.
+**7.18** The waters swelled and increased greatly on the earth; and the ark floated on the face of the waters.
+**7.19** The waters swelled so mightily on the earth that all the high mountains under the whole heaven were covered;
+**7.20** the waters swelled above the mountains, covering them fifteen cubits deep.
+**7.21** And all flesh died that moved on the earth, birds, domestic animals, wild animals, all swarming creatures that swarm on the earth, and all human beings;
+**7.22** everything on dry land in whose nostrils was the breath of life died.
+**7.23** He blotted out every living thing that was on the face of the ground, human beings and animals and creeping things and birds of the air; they were blotted out from the earth. Only Noah was left, and those that were with him in the ark.
+**7.24** And the waters swelled on the earth for one hundred fifty days.
+
+####Chapter 8 ####
+**8.1** But *****God***** remembered Noah and all the wild animals and all the domestic animals that were with him in the ark. And *****God***** made a wind blow over the earth, and the waters subsided;
+**8.2** the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained,
+**8.3** and the waters gradually receded from the earth. At the end of one hundred fifty days the waters had abated;
+**8.4** and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.
+**8.5** The waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains appeared.
+**8.6** At the end of forty days Noah opened the window of the ark that he had made
+**8.7** and sent out the raven; and it went to and fro until the waters were dried up from the earth.
+**8.8** Then he sent out the dove from him, to see if the waters had subsided from the face of the ground;
+**8.9** but the dove found no place to set its foot, and it returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took it and brought it into the ark with him.
+**8.10** He waited another seven days, and again he sent out the dove from the ark;
+**8.11** and the dove came back to him in the evening, and there in its beak was a freshly plucked olive leaf; so Noah knew that the waters had subsided from the earth.
+**8.12** Then he waited another seven days, and sent out the dove; and it did not return to him any more.
+**8.13** In the six hundred first year, in the first month, the first day of the month, the waters were dried up from the earth; and Noah removed the covering of the ark, and looked, and saw that the face of the ground was drying.
+**8.14** In the second month, on the twentyseventh day of the month, the earth was dry.
+**8.15** Then *****God***** said to Noah,
+**8.16** Go out of the ark, you and your wife, and your sons and your sons' wives with you. [8:17] Bring out with you every living thing that is with you of all flesh  birds and animals and every creeping thing that creeps on the earth  so that they may abound on the earth, and be fruitful and multiply on the earth.
+**8.18** So Noah went out with his sons and his wife and his sons' wives.
+**8.19** And every animal, every creeping thing, and every bird, everything that moves on the earth, went out of the ark by families.
+**8.20** Then Noah built an altar to the LORD, and took of every clean animal and of every clean bird, and offered burnt offerings on the altar.
+**8.21** And when the LORD smelled the pleasing odor, the LORD said in his heart, I will never again curse the ground because of humankind, for the inclination of the human heart is evil from youth; nor will I ever again destroy every living creature as I have done.
+**8.22** As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.
+
+####Chapter 9 ####
+**9.1** *****God***** blessed Noah and his sons, and said to them, Be fruitful and multiply, and fill the earth.
+**9.2** The fear and dread of you shall rest on every animal of the earth, and on every bird of the air, on everything that creeps on the ground, and on all the fish of the sea; into your hand they are delivered.
+**9.3** Every moving thing that lives shall be food for you; and just as I gave you the green plants, I give you everything.
+**9.4** Only, you shall not eat flesh with its life, that is, its blood.
+**9.5** For your own lifeblood I will surely require a reckoning: from every animal I will require it and from human beings, each one for the blood of another, I will require a reckoning for human life.
+**9.6** Whoever sheds the blood of a human, by a human shall that person's blood be shed; for in his own image *****God***** made humankind.
+**9.7** And you, be fruitful and multiply, abound on the earth and multiply in it.
+**9.8** Then *****God***** said to Noah and to his sons with him,
+**9.9**  As for me, I am establishing my covenant with you and your descendants after you,
+**9.10** and with every living creature that is with you, the birds, the domestic animals, and every animal of the earth with you, as many as came out of the ark.
+**9.11** I establish my covenant with you, that never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth.
+**9.12** *****God***** said, This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:
+**9.13** I have set my bow in the clouds, and it shall be a sign of the covenant between me and the earth.
+**9.14** When I bring clouds over the earth and the bow is seen in the clouds,
+**9.15** I will remember my covenant that is between me and you and every living creature of all flesh; and the waters shall never again become a flood to destroy all flesh.
+**9.16** When the bow is in the clouds, I will see it and remember the everlasting covenant between *****God***** and every living creature of all flesh that is on the earth.
+**9.17** *****God***** said to Noah, This is the sign of the covenant that I have established between me and all flesh that is on the earth.
+**9.18** The sons of Noah who went out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan.
+**9.19** These three were the sons of Noah; and from these the whole earth was peopled.
+**9.20** Noah, a man of the soil, was the first to plant a vineyard.
+**9.21** He drank some of the wine and became drunk, and he lay uncovered in his tent.
+**9.22** And Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside.
+**9.23** Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father; their faces were turned away, and they did not see their father's nakedness.
+**9.24** When Noah awoke from his wine and knew what his youngest son had done to him,
+**9.25** he said, Cursed be Canaan; lowest of slaves shall he be to his brothers.
+**9.26** He also said, Blessed by the LORD my *****God***** be Shem; and let Canaan be his slave.
+**9.27** May *****God***** make space for Japheth, and let him live in the tents of Shem; and let Canaan be his slave.
+**9.28** After the flood Noah lived three hundred fifty years.
+**9.29** All the days of Noah were nine hundred fifty years; and he died.
+
+####Chapter 10 ####
+**10.1** These are the descendants of Noah's sons, Shem, Ham, and Japheth; children were born to them after the flood.
+**10.2** The descendants of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+**10.3** The descendants of Gomer: Ashkenaz, Riphath, and Togarmah.
+**10.4** The descendants of Javan: Elishah, Tarshish, Kittim, and Rodanim.
+**10.5** From these the coastland peoples spread. These are the descendants of Japheth in their lands, with their own language, by their families, in their nations.
+**10.6** The descendants of Ham: Cush, Egypt, Put, and Canaan.
+**10.7** The descendants of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The descendants of Raamah: Sheba and Dedan.
+**10.8** Cush became the father of Nimrod; he was the first on earth to become a mighty warrior.
+**10.9** He was a mighty hunter before the LORD; therefore it is said, Like Nimrod a mighty hunter before the LORD.
+**10.10** The beginning of his kingdom was Babel, Erech, and Accad, all of them in the land of Shinar.
+**10.11** From that land he went into Assyria, and built Nineveh, Rehobothir, Calah, and
+**10.12** Resen between Nineveh and Calah; that is the great city.
+**10.13** Egypt became the father of Ludim, Anamim, Lehabim, Naphtuhim,
+**10.14** Pathrusim, Casluhim, and Caphtorim, from which the Philistines come.
+**10.15** Canaan became the father of Sidon his firstborn, and Heth,
+**10.16** and the Jebusites, the Amorites, the Girgashites,
+**10.17** the Hivites, the Arkites, the Sinites,
+**10.18** the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites spread abroad.
+**10.19** And the territory of the Canaanites extended from Sidon, in the direction of Gerar, as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
+**10.20** These are the descendants of Ham, by their families, their languages, their lands, and their nations.
+**10.21** To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born.
+**10.22** The descendants of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.
+**10.23** The descendants of Aram: Uz, Hul, Gether, and Mash.
+**10.24** Arpachshad became the father of Shelah; and Shelah became the father of Eber.
+**10.25** To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother's name was Joktan.
+**10.26** Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
+**10.27** Hadoram, Uzal, Diklah,
+**10.28** Obal, Abimael, Sheba,
+**10.29** Ophir, Havilah, and Jobab; all these were the descendants of Joktan.
+**10.30** The territory in which they lived extended from Mesha in the direction of Sephar, the hill country of the east.
+**10.31** These are the descendants of Shem, by their families, their languages, their lands, and their nations.
+**10.32** These are the families of Noah's sons, according to their genealogies, in their nations; and from these the nations spread abroad on the earth after the flood.
+
+####Chapter 11 ####
+**11.1** Now the whole earth had one language and the same words.
+**11.2** And as they migrated from the east, they came upon a plain in the land of Shinar and settled there.
+**11.3** And they said to one another, Come, let us make bricks, and burn them thoroughly. And they had brick for stone, and bitumen for mortar.
+**11.4** Then they said, Come, let us build ourselves a city, and a tower with its top in the heavens, and let us make a name for ourselves; otherwise we shall be scattered abroad upon the face of the whole earth.
+**11.5** The LORD came down to see the city and the tower, which mortals had built.
+**11.6** And the LORD said, Look, they are one people, and they have all one language; and this is only the beginning of what they will do; nothing that they propose to do will now be impossible for them.
+**11.7** Come, let us go down, and confuse their language there, so that they will not understand one another's speech.
+**11.8** So the LORD scattered them abroad from there over the face of all the earth, and they left off building the city.
+**11.9** Therefore it was called Babel, because there the LORD confused the language of all the earth; and from there the LORD scattered them abroad over the face of all the earth.
+**11.10** These are the descendants of Shem. When Shem was one hundred years old, he became the father of Arpachshad two years after the flood;
+**11.11** and Shem lived after the birth of Arpachshad five hundred years, and had other sons and daughters.
+**11.12** When Arpachshad had lived thirtyfive years, he became the father of Shelah;
+**11.13** and Arpachshad lived after the birth of Shelah four hundred three years, and had other sons and daughters.
+**11.14** When Shelah had lived thirty years, he became the father of Eber;
+**11.15** and Shelah lived after the birth of Eber four hundred three years, and had other sons and daughters.
+**11.16** When Eber had lived thirtyfour years, he became the father of Peleg;
+**11.17** and Eber lived after the birth of Peleg four hundred thirty years, and had other sons and daughters.
+**11.18** When Peleg had lived thirty years, he became the father of Reu;
+**11.19** and Peleg lived after the birth of Reu two hundred nine years, and had other sons and daughters.
+**11.20** When Reu had lived thirtytwo years, he became the father of Serug;
+**11.21** and Reu lived after the birth of Serug two hundred seven years, and had other sons and daughters.
+**11.22** When Serug had lived thirty years, he became the father of Nahor;
+**11.23** and Serug lived after the birth of Nahor two hundred years, and had other sons and daughters.
+**11.24** When Nahor had lived twentynine years, he became the father of Terah;
+**11.25** and Nahor lived after the birth of Terah one hundred nineteen years, and had other sons and daughters.
+**11.26** When Terah had lived seventy years, he became the father of Abram, Nahor, and Haran.
+**11.27** Now these are the descendants of Terah. Terah was the father of Abram, Nahor, and Haran; and Haran was the father of Lot.
+**11.28** Haran died before his father Terah in the land of his birth, in Ur of the Chaldeans.
+**11.29** Abram and Nahor took wives; the name of Abram's wife was Sarai, and the name of Nahor's wife was Milcah. She was the daughter of Haran the father of Milcah and Iscah.
+**11.30** Now Sarai was barren; she had no child.
+**11.31** Terah took his son Abram and his grandson Lot son of Haran, and his daughterin law Sarai, his son Abram's wife, and they went out together from Ur of the Chaldeans to go into the land of Canaan; but when they came to Haran, they settled there.
+**11.32** The days of Terah were two hundred five years; and Terah died in Haran.
+
+####Chapter 12 ####
+**12.1** Now the LORD said to Abram, Go from your country and your kindred and your father's house to the land that I will show you.
+**12.2** I will make of you a great nation, and I will bless you, and make your name great, so that you will be a blessing.
+**12.3** I will bless those who bless you, and the one who curses you I will curse; and in you all the families of the earth shall be blessed.
+**12.4** So Abram went, as the LORD had told him; and Lot went with him. Abram was seventyfive years old when he departed from Haran.
+**12.5** Abram took his wife Sarai and his brother's son Lot, and all the possessions that they had gathered, and the persons whom they had acquired in Haran; and they set forth to go to the land of Canaan. When they had come to the land of Canaan,
+**12.6** Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land.
+**12.7** Then the LORD appeared to Abram, and said, To your offspring I will give this land. So he built there an altar to the LORD, who had appeared to him.
+**12.8** From there he moved on to the hill country on the east of Bethel, and pitched his tent, with Bethel on the west and Ai on the east; and there he built an altar to the LORD and invoked the name of the LORD.
+**12.9** And Abram journeyed on by stages toward the Negeb.
+**12.10** Now there was a famine in the land. So Abram went down to Egypt to reside there as an alien, for the famine was severe in the land.
+**12.11** When he was about to enter Egypt, he said to his wife Sarai, I know well that you are a woman beautiful in appearance;
+**12.12** and when the Egyptians see you, they will say, 'This is his wife'; then they will kill me, but they will let you live.
+**12.13** Say you are my sister, so that it may go well with me because of you, and that my life may be spared on your account.
+**12.14** When Abram entered Egypt the Egyptians saw that the woman was very beautiful.
+**12.15** When the officials of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh's house.
+**12.16** And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male and female slaves, female donkeys, and camels.
+**12.17** But the LORD afflicted Pharaoh and his house with great plagues because of Sarai, Abram's wife.
+**12.18** So Pharaoh called Abram, and said, What is this you have done to me? Why did you not tell me that she was your wife?
+**12.19** Why did you say, 'She is my sister,' so that I took her for my wife? Now then, here is your wife, take her, and be gone.
+**12.20** And Pharaoh gave his men orders concerning him; and they set him on the way, with his wife and all that he had.
+
+####Chapter 13 ####
+**13.1** So Abram went up from Egypt, he and his wife, and all that he had, and Lot with him, into the Negeb.
+**13.2** Now Abram was very rich in livestock, in silver, and in gold.
+**13.3** He journeyed on by stages from the Negeb as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,
+**13.4** to the place where he had made an altar at the first; and there Abram called on the name of the LORD.
+**13.5** Now Lot, who went with Abram, also had flocks and herds and tents,
+**13.6** so that the land could not support both of them living together; for their possessions were so great that they could not live together,
+**13.7** and there was strife between the herders of Abram's livestock and the herders of Lot's livestock. At that time the Canaanites and the Perizzites lived in the land.
+**13.8** Then Abram said to Lot, Let there be no strife between you and me, and between your herders and my herders; for we are kindred.
+**13.9** Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right; or if you take the right hand, then I will go to the left.
+**13.10** Lot looked about him, and saw that the plain of the Jordan was well watered everywhere like the garden of the LORD, like the land of Egypt, in the direction of Zoar; this was before the LORD had destroyed Sodom and Gomorrah.
+**13.11** So Lot chose for himself all the plain of the Jordan, and Lot journeyed eastward; thus they separated from each other.
+**13.12** Abram settled in the land of Canaan, while Lot settled among the cities of the Plain and moved his tent as far as Sodom.
+**13.13** Now the people of Sodom were wicked, great sinners against the LORD.
+**13.14** The LORD said to Abram, after Lot had separated from him, Raise your eyes now, and look from the place where you are, northward and southward and eastward and westward;
+**13.15** for all the land that you see I will give to you and to your offspring forever.
+**13.16** I will make your offspring like the dust of the earth; so that if one can count the dust of the earth, your offspring also can be counted.
+**13.17** Rise up, walk through the length and the breadth of the land, for I will give it to you. [13:18] So Abram moved his tent, and came and settled by the oaks of Mamre, which are at Hebron; and there he built an altar to the LORD.
+
+####Chapter 14 ####
+**14.1** In the days of King Amraphel of Shinar, King Arioch of Ellasar, King Chedorlaomer of Elam, and King Tidal of Goiim,
+**14.2** these kings made war with King Bera of Sodom, King Birsha of Gomorrah, King Shinab of Admah, King Shemeber of Zeboiim, and the king of Bela (that is, Zoar).
+**14.3** All these joined forces in the Valley of Siddim (that is, the Dead Sea).
+**14.4** Twelve years they had served Chedorlaomer, but in the thirteenth year they rebelled.
+**14.5** In the fourteenth year Chedorlaomer and the kings who were with him came and subdued the Rephaim in Ashterothkarnaim, the Zuzim in Ham, the Emim in Shaveh kiriathaim,
+**14.6** and the Horites in the hill country of Seir as far as Elparan on the edge of the wilderness;
+**14.7** then they turned back and came to Enmishpat (that is, Kadesh), and subdued all the country of the Amalekites, and also the Amorites who lived in Hazazontamar.
+**14.8** Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) went out, and they joined battle in the Valley of Siddim
+**14.9** with King Chedorlaomer of Elam, King Tidal of Goiim, King Amraphel of Shinar, and King Arioch of Ellasar, four kings against five.
+**14.10** Now the Valley of Siddim was full of bitumen pits; and as the kings of Sodom and Gomorrah fled, some fell into them, and the rest fled to the hill country.
+**14.11** So the enemy took all the goods of Sodom and Gomorrah, and all their provisions, and went their way;
+**14.12** they also took Lot, the son of Abram's brother, who lived in Sodom, and his goods, and departed.
+**14.13** Then one who had escaped came and told Abram the Hebrew, who was living by the oaks of Mamre the Amorite, brother of Eshcol and of Aner; these were allies of Abram.
+**14.14** When Abram heard that his nephew had been taken captive, he led forth his trained men, born in his house, three hundred eighteen of them, and went in pursuit as far as Dan.
+**14.15** He divided his forces against them by night, he and his servants, and routed them and pursued them to Hobah, north of Damascus.
+**14.16** Then he brought back all the goods, and also brought back his nephew Lot with his goods, and the women and the people.
+**14.17** After his return from the defeat of Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King's Valley).
+**14.18** And King Melchizedek of Salem brought out bread and wine; he was priest of *****God***** Most High.
+**14.19** He blessed him and said, Blessed be Abram by *****God***** Most High, maker of heaven and earth;
+**14.20** and blessed be *****God***** Most High, who has delivered your enemies into your hand! And Abram gave him one tenth of everything.
+**14.21** Then the king of Sodom said to Abram, Give me the persons, but take the goods for yourself.
+**14.22** But Abram said to the king of Sodom, I have sworn to the LORD, *****God***** Most High, maker of heaven and earth,
+**14.23** that I would not take a thread or a sandalthong or anything that is yours, so that you might not say, 'I have made Abram rich.'
+**14.24** I will take nothing but what the young men have eaten, and the share of the men who went with me  Aner, Eshcol, and Mamre. Let them take their share.
+
+####Chapter 15 #### 
+**15.1** After these things the word of the LORD came to Abram in a vision, Do not be afraid, Abram, I am your shield; your reward shall be very great.
+**15.2** But Abram said, O Lord *****God*****, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?
+**15.3** And Abram said, You have given me no offspring, and so a slave born in my house is to be my heir.
+**15.4** But the word of the LORD came to him, This man shall not be your heir; no one but your very own issue shall be your heir.
+**15.5** He brought him outside and said, Look toward heaven and count the stars, if you are able to count them. Then he said to him, So shall your descendants be.
+**15.6** And he believed the LORD; and the LORD reckoned it to him as righteousness.
+**15.7** Then he said to him, I am the LORD who brought you from Ur of the Chaldeans, to give you this land to possess.
+**15.8** But he said, O Lord *****God*****, how am I to know that I shall possess it?
+**15.9** He said to him, Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.
+**15.10** He brought him all these and cut them in two, laying each half over against the other; but he did not cut the birds in two.
+**15.11** And when birds of prey came down on the carcasses, Abram drove them away.
+**15.12** As the sun was going down, a deep sleep fell upon Abram, and a deep and terrifying darkness descended upon him.
+**15.13** Then the LORD said to Abram, Know this for certain, that your offspring shall be aliens in a land that is not theirs, and shall be slaves there, and they shall be oppressed for four hundred years;
+**15.14** but I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions.
+**15.15** As for yourself, you shall go to your ancestors in peace; you shall be buried in a good old age.
+**15.16** And they shall come back here in the fourth generation; for the iniquity of the Amorites is not yet complete.
+**15.17** When the sun had gone down and it was dark, a smoking fire pot and a flaming torch passed between these pieces.
+**15.18** On that day the LORD made a covenant with Abram, saying, To your descendants I give this land, from the river of Egypt to the great river, the river Euphrates,
+**15.19** the land of the Kenites, the Kenizzites, the Kadmonites,
+**15.20** the Hittites, the Perizzites, the Rephaim,
+**15.21** the Amorites, the Canaanites, the Girgashites, and the Jebusites..
